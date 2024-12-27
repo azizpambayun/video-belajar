@@ -8,6 +8,7 @@ module.exports = {
         "videobelajar-light-green": "#E8FDE1",
         "videobelajar-primary-text": "#222325",
         "videobelajar-secondary-text": "#747474",
+        "video-belajar-orange": "#ffbd3a",
       },
       fontFamily: {
         lato: ["Lato"],
